@@ -1,0 +1,15 @@
+http://getbootstrap.com/getting-started/#download
+
+
+
+http://jquery.com/download/
+
+$('a').css({'background':'#000',
+            'color':'#fff'});
+
+
+
+$('#header').hide(2000,function(){
+  $('a').text('привет')});
+$('#header').show(2000,function(){
+  $('a').text('привет')});
