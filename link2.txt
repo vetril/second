@@ -1,0 +1,1 @@
+<script>$(function(){$('name').attr('href','http://site.com');});</script>

@@ -20,3 +20,4 @@ $text = mysql_fetch_array($cat);
 
 <?php require_once ('templates/botton.php'); ?>	
 		
+	
